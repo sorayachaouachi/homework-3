@@ -1,0 +1,27 @@
+#one {
+background-color: rgb(217, 212, 212);
+color:black;
+border-color: white;
+width: 70%;
+}
+
+#two {
+    background-color: rgb(177, 180, 184);
+    color:black;
+    border-color: white;
+    width: 70%;
+    }
+
+    #three {
+        color:black;
+        border-color: white;
+        width: 70%;
+        padding: 50 px;
+        }
+    
+#txt {
+width: 100%;
+padding: 10px;
+font-size: 30px;
+}    
+
